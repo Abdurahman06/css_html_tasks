@@ -1,0 +1,33 @@
+/*34#1"*/
+h1 {
+	text-align: right;
+}
+/*"34#2"*/
+h2 {
+	text-align: center;
+}
+/*"34#3"*/
+table {
+	width: 500px;
+}
+/*"34#4"*/
+th {
+	text-align: left;
+}
+/*"34#5"*/
+td {
+	text-align: center;
+}
+/*"34#6"*/
+p {
+    width: 300px;
+}
+/*"34#7"*/
+p {
+    text-align: justify;
+}
+/*"34#8"*/
+h2 {
+    width: 300px;
+    text-align: center;
+}
