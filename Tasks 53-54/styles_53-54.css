@@ -1,0 +1,22 @@
+/*53#1*/
+.t53_1 {
+    ul li i {
+        color: red;
+    }
+p i {
+	color:green;
+}
+}
+/*53#2*/
+.t53_2 {
+    p b i {
+        color:red;
+    }
+
+}
+.t54_1{
+/*54#1*/
+li > b {
+	color: red;
+}
+}
