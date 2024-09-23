@@ -1,0 +1,83 @@
+/*55#1*/
+.odd{
+    color: red;
+}
+.eve{
+    color: green;
+}
+/*55#2*/
+.eee{
+    color: red;
+}
+/*56#1*/
+.xxx{
+font-size: 30px;
+}
+/*57#1*/
+.b1{
+    color: red;
+}
+.b2{
+    color: green;
+}
+.b3{
+    color: blue;
+}
+
+/*57#2*/
+.blok1{
+    color: red;
+}
+.blok2{
+    color: green;
+}
+
+/*58#1*/
+.eee {
+	font-size: 20px;
+	
+}
+.zzz {
+	font-size: 30px;
+	
+}
+.eee .zzz {
+	
+	line-height: 1.5;
+	font-family: Arial;
+}
+
+/*58#2*/
+.eee {
+	font-size: 20px;
+	
+}
+.zzz {
+	font-size: 30px;
+	
+}
+.ggg {
+	font-size: 35px;
+	
+}
+.eee .ggg .zzz {
+
+	text-align: center;
+	font-family: Arial;
+}
+/*59#1*/
+.header {
+	color: red;
+}
+h2.header {
+	font-size: 40px;
+}
+
+h3.header {
+	font-size: 30px;
+}
+
+/*60#1*/
+.eee i {
+	color: red;
+}
