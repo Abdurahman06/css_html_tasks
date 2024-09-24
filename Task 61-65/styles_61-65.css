@@ -71,24 +71,13 @@ p .bbb6 {
 #elem3{
     color:blue;
 }
+/*64#1*/
 .text{
     color:chocolate;
 }
+/*65#1*/
 #block{
     text-align: center;
     text-decoration: overline;
     color:gold;
-}
-#elem8 h2{
-    color:darkviolet;
-}
-#elem9 .text{
-    color:dodgerblue;
-}
-#elem10 p.text{
-    color:gray;
-}
-#elem11 li.text{
-    font-family: Arial;
-    color:chartreuse;
 }
