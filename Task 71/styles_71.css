@@ -1,0 +1,30 @@
+/*71#1*/
+#block2 h1 {
+	text-align: center;
+}
+h2{
+    text-align: center;
+	color: blue;
+}
+h3 {
+	text-align: center;
+	font-size: 16px;
+	color: red;
+}
+/*71#2*/
+#block3 h1.eee {
+	text-align: center;
+	font-size: 30px;
+}
+ h2.zzz {
+	text-align: center;
+	font-size: 20px;
+}
+/*71#3*/
+.xxx .kkk , .eee1 h2.zzz1 , #eee h2{
+	text-align: center;
+}
+/*71#4*/
+.eeee h2.zzzz , .xxxx{
+	text-align: center;
+}
