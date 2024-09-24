@@ -1,0 +1,49 @@
+/*66#1*/
+#elem h2 {
+	color: red;
+}
+/*66#2*/
+#elem1 .text {
+	color: rgb(0, 255, 106);
+}
+/*66#3*/
+#elem2 p.text{
+    color:rgb(121, 5, 5);
+    font-size: 40px;
+}
+/*66#4*/
+#elem3 li.text{
+    font-family: Arial;
+    color:rgb(0, 132, 255);
+}
+/*67#1*/
+.eee.zzz.ccc {
+    color: rgb(7, 201, 16);
+    font-family: 'Times New Roman';
+}
+/*68#1*/
+.b.z{
+    color:green;
+    text-indent: 30px;
+    text-align: justify;
+   
+}
+/*68#2*/
+h2.bb.rr {
+	color: rgb(194, 10, 84);
+}    
+/*68#3*/
+#elem.ottt{
+    color:rgb(5, 194, 59);
+}
+/*68#4*/
+#elem.shh{
+    color:rgb(15, 143, 211);
+    text-decoration: underline;
+    text-indent:30px;
+}
+/*68#5*/
+h2#elem.fact {
+	color: rgb(12, 1, 211);
+    font-style: Arial;
+}
