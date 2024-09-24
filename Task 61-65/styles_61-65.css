@@ -1,0 +1,94 @@
+/*61#1*/
+.eee .bbb {
+	color: red;
+}
+/*61#2*/
+.eee h2 {
+	color: red;
+}
+/*61#3*/
+.eee1 h2.bbb1 {
+	color: red;
+}
+/*61#4*/
+.eee2 h3.bbb2 {
+	color: red;
+}
+/*61#5*/
+.eee3 p.bbb3 {
+	color: red;
+}
+/*61#6*/
+.eee4 .bbb4 .kkk4 {
+	color: red;
+}
+/*62#1*/
+p.bbb5 {
+	color: red;
+}
+/*62#2*/
+p .bbb6 {
+	color: red;
+}
+/*62#3*/
+.eee5 p.bbb7 {
+	color: red;
+}
+/*62#3*/
+.eee6 p .bbb8 {
+	color: red;
+}
+/*63#1*/
+.success  {
+	color: green;
+}
+.error  {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+/*63#2*/
+.rrr1{
+    color:blue;
+}
+.ddd1{
+    font-size: 40px;
+}
+.aaa1{
+    text-decoration:overline
+}
+/*63#2*/
+#elem1{
+    color:red;
+}
+#elem2{
+    color:green;
+}
+#elem3{
+    color:blue;
+}
+.text{
+    color:chocolate;
+}
+#block{
+    text-align: center;
+    text-decoration: overline;
+    color:gold;
+}
+#elem8 h2{
+    color:darkviolet;
+}
+#elem9 .text{
+    color:dodgerblue;
+}
+#elem10 p.text{
+    color:gray;
+}
+#elem11 li.text{
+    font-family: Arial;
+    color:chartreuse;
+}
