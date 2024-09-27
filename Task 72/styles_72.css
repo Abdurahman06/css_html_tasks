@@ -1,0 +1,85 @@
+/*72#1*/
+ .t1 p {
+color:blue;
+}
+
+/*72#2*/
+.t2 h2 {
+    color:blue;
+    }
+
+/*72#3*/
+#block p{
+    color: blue;
+}
+
+/*72#4*/
+#block1 h2{
+    color: blue;
+}
+
+/*72#5*/
+.bbb{
+    color: blue;
+}
+
+/*72#6*/
+#block2 .bbb1{
+    color: blue;
+}
+
+/*72#7*/
+ p.bbb2{
+    color: blue;
+}
+
+/*72#8*/
+h2.bbb3{
+    color: blue;
+}
+
+/*72#9*/
+#block5 p.bbb4{
+    color: blue;
+}
+
+/*72#10*/
+.bbb5 , .xxx1{
+    color: blue;
+}
+
+/*72#11*/
+p.bbb6 , h2.xxx2{
+    color: blue;
+}
+
+/*72#12*/
+#blok p.bbbz , p.xxxz{
+    color: blue;
+}
+
+/*72#13*/
+.fffr{
+    color: blue;
+}
+
+/*72#14*/
+.fff p{
+    color: blue;
+}
+
+/*72#15*/
+p.fff4y{
+    color: blue;
+}
+
+
+/*72#16*/
+.fffl .bbbo{
+    color: blue;
+}
+
+/*72#17*/
+.fffc h2.bbbc{
+    color: blue;
+}
