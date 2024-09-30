@@ -1,0 +1,20 @@
+/*77#1*/
+#elem1 + li{
+    color: red;
+}
+
+/*77#2*/
+.elem2 + li{
+    color: red;
+}
+
+/*78#1*/
+#elem3 ~ li{
+    color: red;
+}
+
+/*79#1*/
+main * p{
+color: red;
+}
+
