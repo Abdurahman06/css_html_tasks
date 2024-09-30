@@ -1,0 +1,32 @@
+/*80#1*/
+[title].title1 {
+    color:red;
+  }
+/*80#2*/
+  p[title].title2{ 
+    color: red; 
+}
+/*80#3*/
+p[title="hello"].title3 {
+  color: red; 
+}
+/*80#4*/
+a[href^="http://"].title4 {
+  color: red;
+  text-decoration: underline;
+}
+/*80#5*/
+a[href$=".html"].title5 {
+  color: red;
+  text-decoration: underline;
+}
+/*80#6*/
+p[title*="hello"].title6{
+  color: red;
+  font-weight: bold;
+}
+/*80#7*/
+p[class^="top-"] {
+  color: red;
+  font-style: italic;
+}
