@@ -1,0 +1,115 @@
+/*82#1*/
+.one a:link{
+    color: blue;
+}
+
+.one a:hover{
+    color: red;
+    text-decoration: none;
+}
+
+.one a:visited{
+    color: green;
+}
+
+.one a:active{
+    color: black;
+}
+/*84#1*/
+.two a {
+	color: blue;
+    text-decoration: none;
+}
+.two a:hover {
+	color: red;
+    text-decoration-line: underline;
+}
+/*85#1*/
+#test a {
+	color: red;
+}
+#test a:hover {
+	text-decoration: none;
+}
+/*86#1*/
+a.zzz {
+	color: red;
+}
+a.zzz:hover {
+	text-decoration: none;
+}
+/*86#2*/
+#block1 a.zzz2 {
+	color: red;
+}
+#block1 a.zzz2:hover {
+	text-decoration: none;
+}
+/*86#3*/
+.block3 a.zzz3 {
+	color: red;
+}
+.block3 a.zzz3:hover {
+	text-decoration: none;
+}
+/*87#1*/
+.www1 li:first-child {
+	color: red;
+}
+.www2 li:first-child {
+	color: red;
+}
+/*87#2*/
+.www3 li:last-child {
+	color: green;
+}
+.www4 li:last-child {
+	color: green;
+}
+/*87#3*/
+.www5 li:first-child {
+	color: red;
+}
+.www5 li:last-child {
+	color: green;
+}
+.www6 li:first-child {
+	color: red;
+}
+.www6 li:last-child {
+	color: green;
+}
+/*87#4*/
+.ttt li:nth-child(3) {
+	color: red;
+}
+/*87#5*/
+.ttt1 li:nth-child(odd) {
+	color: red;
+}
+.ttt1 li:nth-child(even) {
+	color: green;
+}
+/*87#6*/
+.ttt2 li:nth-child(3n) {
+	color: red;
+}
+/*87#7*/
+.ttt3 li:nth-child(4) {
+	color: red;
+}
+/*87#8*/
+.rrr1 li:only-child {
+	color: red;
+}
+/*87#9*/
+.rrr2 li {
+	border: 1px solid red;
+	width: 100px;
+	padding: 3px;
+	margin-top: 10px;
+}
+.rrr2 li:empty {
+	border: 1px solid blue;
+	width: 100px;
+}
