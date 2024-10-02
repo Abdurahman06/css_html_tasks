@@ -1,0 +1,36 @@
+/*88#1*/
+.t881  p:first-of-type {
+	color: red;
+}
+.t881 h2:last-of-type {
+	color: red;
+}
+
+/*88#2*/
+.t882 h2:nth-of-type(3) {
+	color: red;
+}
+.t882 h2:nth-last-of-type(2) {
+	color: red;
+}
+
+/*88#3*/
+
+.t883 h2:only-of-type {
+	color: red;
+}
+
+/*89#1*/
+.t891 li:not(.elem1) {
+	color: red;
+}
+
+/*89#2*/
+.t892 li:not(:first-child) {
+	color: red;
+}
+
+/*89#3*/
+.t893 li:not(:first-child , :last-child) {
+	color: red;
+}
