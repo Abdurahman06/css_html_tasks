@@ -1,0 +1,104 @@
+/*90#1*/
+#elem {
+    width: 200px;
+    height: 200px;
+    background-color: #7e89eb;
+}
+/*90#2*/
+#elem1 {
+    width: 300px;
+    height: 200px;
+    background-color: #1fe973ef;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+/*92#1*/
+#elem2{
+    border-color:blue ;
+    border-width: 4px;
+    border-style: solid;
+    width: 300px;
+    height: 200px;
+}
+/*93#1*/
+#elem3{
+    border-style: dotted;
+    border-color: red;
+    border-width: 5px;
+    width: 300px;
+    height: 200px;
+}
+/*94#1*/
+#elem4{
+    border-style: dashed;
+    border-color: orange;
+    border-width: 2px;
+    width: 300px;
+    height: 200px;
+}
+/*96#1*/
+#elem5{
+    border-style: double;
+    border-color: blue;
+    border-width: 10px;
+    width: 300px;
+    height: 200px;
+}
+/*97#1*/
+#elem6{
+    border: 1px red solid;
+    width: 300px;
+    height: 200px;
+}
+/*97#2*/
+#elem7{
+    border: 2px blue dotted;
+    width: 300px;
+    height: 200px;
+}
+/*97#3*/
+#elem8{
+    border: 3px green dashed;
+    width: 300px;
+    height: 200px;
+}
+/*97#4*/
+#elem9{
+    border: 6px orange double;
+    width: 300px;
+    height: 200px;
+}
+/*98#1*/
+#elem10{
+    border-bottom: solid 3px red;
+    border-top: solid 3px blue;
+    border-right: solid 3px green;
+    border-left: solid 3px orange;
+    height: 200px;
+    width: 300px;
+}
+/*98#2*/
+#elem11{
+    border-top: solid blue 1px;
+    border-bottom: solid blue 1px;
+    border-left: solid red 3px;
+    border-right: dotted green 3px;
+    width: 300px;
+    height: 200px;
+}
+/*99#1*/
+#elem12{
+    border: solid green 1px;
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+}
+/*100#1*/
+#elem13{
+    border: #4dee99 1px solid;
+    background-color: #4dee99;
+    border-radius: 30px;
+    height: 200px;
+    width: 200px;
+}
