@@ -1,0 +1,149 @@
+/*background-position*/
+#elem1{
+    border: 2px black solid;
+    height: 500px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-image: url(im.png);
+background-position: center center;
+} */
+
+#elem2{
+    border: 2px black solid;
+    height: 500px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-image: url(im.png);
+background-position: right center;
+}
+
+#elem3{
+    border: 2px black solid;
+    height: 500px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-image: url(im.png);
+background-position: left bottom;
+}
+
+/*background-size*/
+ #elem4{
+   
+        background-size: 400px;
+        background-repeat: no-repeat;
+        background-image: url("im.png");
+        border: 1px solid black;
+        width: 400px;
+        height: 400px;
+}
+
+#elem5{
+   
+    background-size:  100px auto;
+    background-repeat: no-repeat;
+    background-image: url("im.png");
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+}
+
+.elem{
+    background-size: contain;
+	background-repeat: no-repeat;
+	background-image: url("im.png");
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
+#lem1 {
+	width: 600px;
+	height: 500px;
+}
+
+#lem2 {
+	width: 500px;
+	height: 600px;
+}
+
+#lem3 {
+	width: 400px;
+	height: 400px;
+}
+
+#lem4 {
+	width: 300px;
+	height: 400px;
+}
+
+#lem5 {
+	width: 200px;
+	height: 400px;
+}
+
+#lem6 {
+	width: 300px;
+	height: 100px;
+}
+
+
+.lem{
+    background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url("im.png");
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
+#ele1 {
+	width: 600px;
+	height: 500px;
+}
+
+#ele2 {
+	width: 500px;
+	height: 600px;
+}
+
+#ele3 {
+	width: 400px;
+	height: 400px;
+}
+
+#ele4 {
+	width: 300px;
+	height: 400px;
+}
+
+#ele5 {
+	width: 200px;
+	height: 400px;
+}
+
+#ele6 {
+	width: 300px;
+	height: 100px;
+}
+
+/*background-attachment*/
+/* body {
+background-image: url(bg.png);
+background-attachment: fixed;
+}
+#ele9 {
+	width: 400px;
+	margin: 0 auto;
+	text-align: justify;
+	font-weight: bold;
+	font-size: 20px;
+} */
+
+/*background-attachment/background-origin*/
+#bacl1{
+    background-size: 300px 200px;
+    background-clip: border-box;
+    background-repeat: no-repeat;
+    background-position: center center;
+	background-image: url(kosmos.png);
+	border: 6px dashed black;
+	padding: 10px;
+	width: 300px;
+	height: 200px;
+}
