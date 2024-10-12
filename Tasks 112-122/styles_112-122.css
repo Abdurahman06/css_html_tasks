@@ -1,0 +1,35 @@
+/*112#1*/
+#t1121 li{
+	list-style-type: square;
+}
+
+/*113#1*/
+#t1131 li{
+	list-style-type: circle;
+}
+
+/*115#1*/
+#t1151 li{
+	list-style-type: none;
+}
+
+/*119#1*/
+#t1191 li{
+	list-style-type:lower-alpha;
+}
+
+/*120#1*/
+#t1201 li{
+	list-style-type:upper-alpha;
+}
+
+/*121#1*/
+#t1211 li{
+	list-style-type:lower-greek;
+}
+
+/*122#1*/
+#t1221 li{
+	list-style-type:decimal-leading-zero;
+}
+
