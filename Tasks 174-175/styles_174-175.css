@@ -1,0 +1,145 @@
+/*174#1*/
+#t17411{
+    height: 50px;
+    width: 50px;
+    border: solid 1px red;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    
+}
+#t17412{
+    border: solid blue 1px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 180px;
+    top: 170px;
+    
+}
+#t17413{
+    border: solid green 1px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 260px;
+    top: 240px;
+    
+}
+
+/*174#2*/
+#t17421{
+    height: 50px;
+    width: 50px;
+    border: solid 1px red;
+    position: absolute;
+    left: 100px;
+    top: 450px;
+    
+}
+#t17422{
+    border: solid blue 1px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 170px;
+    top: 450px;
+    
+}
+#t17423{
+    border: solid green 1px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 240px;
+    top: 450px;
+    
+}
+
+/*174#3*/
+#t17431{
+    height: 50px;
+    width: 50px;
+    border: solid 1px red;
+    position: absolute;
+    left: 100px;
+    top: 700px;
+    
+}
+#t17432{
+    border: solid blue 1px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 130px;
+    top: 730px;
+    
+}
+#t17433{
+    border: solid green 1px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 160px;
+    top: 760px;
+    
+}
+
+/*174#4*/
+#t17441{
+    height: 50px;
+    width: 50px;
+    border: solid 1px red;
+    position: absolute;
+    left: 100px;
+    top: 900px;
+    background-color: #FF8888;
+}
+#t17442{
+    border: solid blue 1px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 130px;
+    top: 930px;
+    background-color: #7E89EB;
+}
+#t17443{
+    border: solid green 1px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 160px;
+    top: 960px;
+    background-color: #4DEE99;
+}
+
+/*175#1*/
+#t17511{
+    height: 100px;
+    width: 100px;
+    border: solid 1px red;
+    position: relative ;
+    left: 100px;
+    top: 1100px;
+    background-color: #FF8888;
+}
+#t17512{
+    border: solid blue 1px;
+    height: 100px;
+    width: 100px;
+    position: relative ;
+    left: 140px;
+    top: 1080px;
+    background-color: #7E89EB;
+}
+#t17513{
+    border: solid green 1px;
+    height: 100px;
+    width: 100px;
+    position: relative ;
+    left: 220px;
+    top: 1060px;
+    background-color: #4DEE99;
+}
+
