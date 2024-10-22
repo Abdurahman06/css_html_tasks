@@ -1,0 +1,57 @@
+/*183#1*/
+#parent1831{
+    position: relative;
+	width: 300px;
+	height: 300px;
+	margin: 50px auto;
+	border: 1px solid green;
+}
+#child18311{
+right: -50px;
+border: red 1px solid;
+height: 30px;
+width: 30px;
+position: absolute;
+}
+#child18312{
+    left: -50px;
+    border: red 1px solid;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    }
+
+ /*184#1*/   
+ #elem1841 {
+	position: relative;
+    width: 400px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid green;
+    text-align: justify;
+}
+
+#content1841 {
+    
+	margin: 0 auto;
+	width: 300px;
+	text-align: justify;
+	font: 16px Arial;
+}
+
+#children18411{
+    position: fixed;
+    left: 200px;
+    top: 10px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+}
+#children18412{
+    position: fixed;
+    right: 200px;
+    top: 10px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+    }
