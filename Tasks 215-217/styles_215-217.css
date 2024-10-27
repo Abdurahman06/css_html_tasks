@@ -1,0 +1,227 @@
+
+/*215#1*/
+.parent2151{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly ;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2151{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+/*215#2*/
+.parent2152{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2152{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+/*215#3*/
+.parent2153{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2153{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+/*215#4*/
+.parent2154{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2154{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+/*215#5*/
+.parent2155{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: flex-start;width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2155{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+/*215#6*/
+.parent2156{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2156{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+/*215#7*/
+.parent2157{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2157{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+/*215#8*/
+.parent2158{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2158{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+/*215#9*/
+.parent2159{
+    display: flex;
+    flex-direction:  row;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2159{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+
+
+/*216#1*/
+.parent2161{
+    display: flex;
+    flex-direction: row;
+    justify-content: center ;
+    align-items: center ; 
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2161{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+.elem61{
+    align-self: flex-end;
+
+}
+/*216#2*/
+.parent2162{
+    display: flex;
+    flex-direction: row;
+    justify-content: center ;
+    align-items: stretch ;  
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2162{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+.elem62{
+    align-self: center ; 
+
+}
+/*216#3*/
+.parent2163{
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    align-items: flex-start ; 
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2163{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+.elem63{
+    align-self: center ; 
+
+}
+/*217#1*/
+.parent2171{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child2171{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
+.elem71{
+    order: -1;
+	border: 1px solid grey; 
+
+}
